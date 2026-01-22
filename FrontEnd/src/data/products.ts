@@ -41,8 +41,8 @@ export const products: Product[] = [
     name: 'Cashmere Blend Overcoat',
     slug: 'cashmere-blend-overcoat',
     description: 'Luxuriously soft cashmere blend overcoat with a timeless silhouette. Features a notched lapel, single-breasted closure, and two front pockets. Perfect for elevating any winter ensemble.',
-    price: 895,
-    originalPrice: 1195,
+    price: 89,
+    originalPrice: 95,
     images: [
       'https://images.unsplash.com/photo-1539533018447-63fcce2678e3?w=800&q=80',
       'https://images.unsplash.com/photo-1544022613-e87ca75a784a?w=800&q=80',
@@ -67,7 +67,7 @@ export const products: Product[] = [
     name: 'Italian Leather Tote',
     slug: 'italian-leather-tote',
     description: 'Handcrafted in Italy from full-grain leather. Spacious interior with multiple compartments, brass hardware, and detachable shoulder strap. A sophisticated companion for work and travel.',
-    price: 200,
+    price: 20,
     images: [
       'https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=800&q=80',
       'https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=800&q=80',
@@ -91,7 +91,7 @@ export const products: Product[] = [
     name: 'Silk Blend Scarf',
     slug: 'silk-blend-scarf',
     description: 'Exquisite silk blend scarf featuring an exclusive geometric pattern. Lightweight yet warm, perfect for adding a touch of elegance to any outfit throughout the seasons.',
-    price: 195,
+    price: 95,
     images: [
       'https://images.unsplash.com/photo-1601924994987-69e26d50dc26?w=800&q=80',
     ],
@@ -114,8 +114,8 @@ export const products: Product[] = [
     name: 'Handcrafted Oxford Shoes',
     slug: 'handcrafted-oxford-shoes',
     description: 'Classic oxford shoes meticulously handcrafted from premium calfskin leather. Features Goodyear welt construction for durability and comfort. A timeless addition to any gentleman\'s wardrobe.',
-    price: 485,
-    originalPrice: 595,
+    price: 85,
+    originalPrice: 95,
     images: [
       'https://images.unsplash.com/photo-1614252369475-531eba835eb1?w=800&q=80',
       'https://images.unsplash.com/photo-1533867617858-e7b97e060509?w=800&q=80',
@@ -139,7 +139,7 @@ export const products: Product[] = [
     name: 'Merino Wool Sweater',
     slug: 'merino-wool-sweater',
     description: 'Ultra-fine merino wool sweater with a relaxed fit. Naturally temperature-regulating and incredibly soft against the skin. An everyday luxury for the discerning customer.',
-    price: 295,
+    price: 95,
     images: [
       'https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800&q=80',
     ],
@@ -164,7 +164,7 @@ export const products: Product[] = [
     name: 'Minimalist Watch',
     slug: 'minimalist-watch',
     description: 'Swiss-made minimalist watch with sapphire crystal glass and Italian leather strap. Water-resistant to 50 meters. The epitome of understated elegance.',
-    price: 395,
+    price: 95,
     images: [
       'https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=800&q=80',
     ],
@@ -187,7 +187,7 @@ export const products: Product[] = [
     name: 'Canvas Weekend Bag',
     slug: 'canvas-weekend-bag',
     description: 'Premium waxed canvas weekend bag with leather trim. Spacious main compartment with interior pockets and detachable shoulder strap. Built for adventures.',
-    price: 325,
+    price: 55,
     images: [
       'https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&q=80',
     ],
@@ -210,7 +210,7 @@ export const products: Product[] = [
     name: 'Premium Leather Belt',
     slug: 'premium-leather-belt',
     description: 'Hand-finished leather belt with brushed metal buckle. Made from a single piece of full-grain leather that develops a beautiful patina over time.',
-    price: 145,
+    price: 45,
     images: [
       'https://images.unsplash.com/photo-1624222247344-550fb60583dc?w=800&q=80',
     ],
@@ -234,7 +234,7 @@ export const products: Product[] = [
     name: 'Linen Summer Blazer',
     slug: 'linen-summer-blazer',
     description: 'Lightweight linen blazer perfect for warm weather occasions. Features a relaxed fit, patch pockets, and natural texture that breathes beautifully.',
-    price: 425,
+    price: 45,
     images: [
       'https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=800&q=80',
     ],
@@ -258,8 +258,8 @@ export const products: Product[] = [
     name: 'Cashmere V-Neck Cardigan',
     slug: 'cashmere-v-neck-cardigan',
     description: 'Pure cashmere cardigan with mother-of-pearl buttons. Incredibly soft and versatile, perfect for layering in any season.',
-    price: 495,
-    originalPrice: 650,
+    price: 95,
+    originalPrice: 150,
     images: [
       'https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=800&q=80',
     ],
@@ -283,7 +283,7 @@ export const products: Product[] = [
     name: 'Tailored Wool Trousers',
     slug: 'tailored-wool-trousers',
     description: 'Impeccably tailored trousers in fine wool blend. Features a classic pleated front, side pockets, and a comfortable mid-rise fit.',
-    price: 295,
+    price: 95,
     images: [
       'https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=800&q=80',
     ],
@@ -329,8 +329,8 @@ export const products: Product[] = [
     name: 'Aviator Sunglasses',
     slug: 'aviator-sunglasses',
     description: 'Classic aviator sunglasses with polarized lenses and titanium frame. Timeless design with superior UV protection.',
-    price: 285,
-    originalPrice: 350,
+    price: 85,
+    originalPrice: 150,
     images: [
       'https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=800&q=80',
     ],
@@ -353,7 +353,7 @@ export const products: Product[] = [
     name: 'Leather Gloves',
     slug: 'leather-gloves',
     description: 'Butter-soft lambskin gloves with cashmere lining. Touchscreen compatible fingertips for modern convenience.',
-    price: 175,
+    price: 75,
     images: [
       'https://images.unsplash.com/photo-1545594861-3bef43ff2fc8?w=800&q=80',
     ],
@@ -377,7 +377,7 @@ export const products: Product[] = [
     name: 'Suede Chelsea Boots',
     slug: 'suede-chelsea-boots',
     description: 'Premium suede Chelsea boots with elastic side panels and pull tabs. Blake-stitched leather sole for comfort and durability.',
-    price: 425,
+    price: 125,
     images: [
       'https://images.unsplash.com/photo-1638247025967-b4e38f787b76?w=800&q=80',
     ],
@@ -401,8 +401,8 @@ export const products: Product[] = [
     name: 'Penny Loafers',
     slug: 'penny-loafers',
     description: 'Hand-sewn penny loafers in polished calfskin leather. A timeless classic with a modern slim profile.',
-    price: 395,
-    originalPrice: 495,
+    price: 95,
+    originalPrice: 125,
     images: [
       'https://images.unsplash.com/photo-1626379953822-baec19c3accd?w=800&q=80',
     ],
@@ -426,7 +426,7 @@ export const products: Product[] = [
     name: 'White Leather Sneakers',
     slug: 'white-leather-sneakers',
     description: 'Minimalist white leather sneakers with a clean silhouette. Premium Italian leather with cushioned insole.',
-    price: 295,
+    price: 85,
     images: [
       'https://images.unsplash.com/photo-1549298916-b41d501d3772?w=800&q=80',
     ],
@@ -449,7 +449,7 @@ export const products: Product[] = [
     name: 'Structured Briefcase',
     slug: 'structured-briefcase',
     description: 'Professional briefcase in full-grain leather with brass hardware. Features padded laptop compartment and organizer pockets.',
-    price: 595,
+    price: 95,
     images: [
       'https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=800&q=80',
     ],
@@ -472,8 +472,8 @@ export const products: Product[] = [
     name: 'Crossbody Messenger Bag',
     slug: 'crossbody-messenger-bag',
     description: 'Versatile messenger bag in water-resistant canvas with leather trim. Adjustable strap and multiple compartments.',
-    price: 275,
-    originalPrice: 325,
+    price: 75,
+    originalPrice: 100,
     images: [
       'https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?w=800&q=80',
     ],
@@ -496,7 +496,7 @@ export const products: Product[] = [
     name: 'Leather Backpack',
     slug: 'leather-backpack',
     description: 'Sophisticated leather backpack with rolled top and magnetic closure. Perfect blend of style and functionality.',
-    price: 485,
+    price: 65,
     images: [
       'https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&q=80',
     ],
